@@ -14,6 +14,8 @@ Documentation: Along with each link, write a brief description of what the code 
 
 ## Prose Blurbs for Exploration
 - Code that specifies when an alarm clock should start making audible sounds.
+  Title: "Alarm Clock Code"
+  
 - Code for a rocket targeting system.
 - File compression utility algorithm.
 - Weather forecasting algorithm.
